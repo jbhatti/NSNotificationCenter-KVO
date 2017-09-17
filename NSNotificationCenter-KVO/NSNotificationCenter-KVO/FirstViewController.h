@@ -10,6 +10,10 @@
 
 @interface FirstViewController : UIViewController
 
+- (instancetype)initWithName:(NSNotificationName)name object:(id)object userInfo:(NSDictionary *)userInfo;
+
+- (void)postNotification:(NSNotification *)notification;
+
 
 @end
 
