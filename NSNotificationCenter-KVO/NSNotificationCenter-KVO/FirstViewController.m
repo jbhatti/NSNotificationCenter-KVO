@@ -9,6 +9,7 @@
 #import "FirstViewController.h"
 
 @interface FirstViewController ()
+@property (weak, nonatomic) IBOutlet UIStepper *stepper;
 
 @end
 
@@ -25,7 +26,8 @@
     // Dispose of any resources that can be recreated.
 }
 
-- (IBAction)stepper:(id)sender {
+- (IBAction)stepperTapped:(UIStepper *)sender {
 }
+
 
 @end
