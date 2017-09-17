@@ -1,18 +1,18 @@
 //
-//  ViewController.m
+//  FirstViewController.m
 //  NSNotificationCenter-KVO
 //
 //  Created by Jaison Bhatti on 2017-09-17.
 //  Copyright © 2017 Jaison Bhatti. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "FirstViewController.h"
 
-@interface ViewController ()
+@interface FirstViewController ()
 
 @end
 
-@implementation ViewController
+@implementation FirstViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];

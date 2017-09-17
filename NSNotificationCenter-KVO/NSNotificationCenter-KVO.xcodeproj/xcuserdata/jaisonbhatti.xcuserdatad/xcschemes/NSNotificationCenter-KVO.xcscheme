@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "88DEDAAA1F6F2D73007E5D03"
+               BlueprintIdentifier = "88DEDACD1F6F32A7007E5D03"
                BuildableName = "NSNotificationCenter-KVO.app"
                BlueprintName = "NSNotificationCenter-KVO"
                ReferencedContainer = "container:NSNotificationCenter-KVO.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "88DEDAAA1F6F2D73007E5D03"
+            BlueprintIdentifier = "88DEDACD1F6F32A7007E5D03"
             BuildableName = "NSNotificationCenter-KVO.app"
             BlueprintName = "NSNotificationCenter-KVO"
             ReferencedContainer = "container:NSNotificationCenter-KVO.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "88DEDAAA1F6F2D73007E5D03"
+            BlueprintIdentifier = "88DEDACD1F6F32A7007E5D03"
             BuildableName = "NSNotificationCenter-KVO.app"
             BlueprintName = "NSNotificationCenter-KVO"
             ReferencedContainer = "container:NSNotificationCenter-KVO.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "88DEDAAA1F6F2D73007E5D03"
+            BlueprintIdentifier = "88DEDACD1F6F32A7007E5D03"
             BuildableName = "NSNotificationCenter-KVO.app"
             BlueprintName = "NSNotificationCenter-KVO"
             ReferencedContainer = "container:NSNotificationCenter-KVO.xcodeproj">
